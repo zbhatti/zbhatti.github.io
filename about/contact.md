@@ -1,5 +1,3 @@
-layout: page
-title: "Title of Contact Page"
-permalink: /about/contact
-
-zb609@nyu.edu
+email: zb609@nyu.edu
+email: zbhatti@cern.ch
+email: zubairxb@gmail.com
